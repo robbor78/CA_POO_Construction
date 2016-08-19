@@ -68,9 +68,9 @@ public:
             sortie << " ";
           }
         }
-        if (!(i == 0 && j == 0)) {
+        //if (!(i == 0 && j == 0)) {
           sortie << endl;
-        }
+          //}
       }
     }
     return sortie;
